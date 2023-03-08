@@ -96,7 +96,9 @@ Build Videorecorder Bundle use Networkoptix Client on HYY H-3588 Tablet
 
 \- [Build Videorecorder Bundle use Networkoptix Client](https://github.com/industrialtablet/Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet)
 
+Build new ubuntu rootfs for HYY H-3588 Tablet
 
+-[Build new ubuntu rootfs for RK3566 RK3568 RK3588 products](https://github.com/industrialtablet/Re-build-ubuntu20.04-rootfs-for-RK3566-RK3568-RK3588)
 
 # Contacts
 
